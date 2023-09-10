@@ -15,7 +15,7 @@
     [live site](https://amansgz.github.io/css-coding-bootcamp-testimonials-slider/) / [code](https://github.com/amansgz/css-coding-bootcamp-testimonials-slider)
 
   - **Testimonials Grid Section**    
-    <img src= "https://github.com/amansgz/css-testimonials-grid-section/blob/dd4f6cdf5f8285c2d70340d02b3799daea8611c4/styles/images/preview.png" title= "" alt= "" width= "230">          
+    <img src= "https://github.com/amansgz/css-testimonials-grid-section/blob/ab801927eb19872cc5f4dcf002d9c0d205920dcd/styles/images/preview.png" title= "Testimonials Grid Section" alt= "Testimonials Grid Section" width= "230">          
 
     [live site](https://amansgz.github.io/css-testimonials-grid-section/) / [code](https://github.com/amansgz/css-testimonials-grid-section)
 
