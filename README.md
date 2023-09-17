@@ -25,7 +25,7 @@
   [live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
 
 - **Insure Landing Page**      
-  <img src= "https://github.com/amansgz/css-insure-landing-page/blob/f3bf8f279947ec4483500beae93f17db59256cd7/images/screenshot.png" title= "insure landing page" alt= "insure landing page" width= "230">          
+  <img src= "https://github.com/amansgz/css-insure-landing-page/blob/34da30bd9de01ca8da439ea14f5e85a7b53927bb/images/preview.png" title= "insure landing page" alt= "insure landing page" width= "230">          
 
   [live site](https://amansgz.github.io/css-insure-landing-page/) / [code](https://github.com/amansgz/css-insure-landing-page)
 
