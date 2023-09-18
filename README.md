@@ -20,7 +20,7 @@
     [live site](https://amansgz.github.io/css-testimonials-grid-section/) / [code](https://github.com/amansgz/css-testimonials-grid-section)
 
 - **Fylo Landing Page with 2 column layout**    
-  <img src= "https://github.com/amansgz/css-landing-page-with-2-column-layout/blob/f0cc8429c89255f8b3877307236278aad5bc71cc/styles/images/preview.png" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/css-landing-page-with-2-column-layout/blob/103da0a62e5c26411b96cc50ce25158665cf806f/styles/images/preview.png" title= "Fylo landing page" alt= "Fylo landing page" width= "230">          
 
   [live site](https://amansgz.github.io/css-landing-page-with-2-column-layout/) / [code](https://github.com/amansgz/css-landing-page-with-2-column-layout)
 
