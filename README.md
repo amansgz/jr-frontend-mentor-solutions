@@ -38,7 +38,7 @@
   [live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
 
 - **Pricing Component with Toggle**    
-  <img src= "https://github.com/amansgz/sass-pricing-component-with-toggle/blob/20f04bf6de7ddbcb67974292c2b18b08f63275ad/images/preview.png" title= "" alt= "" width= "230">          
+  <img src= "https://github.com/amansgz/sass-pricing-component-with-toggle/blob/10102cc7780b85a76fe17981e44f5359f50f41d7/images/preview.png" title= "Pricing component with toggle" alt= "Pricing component with toggle" width= "230">          
 
   [live site](https://sass-pricing-component-with-toggle.netlify.app/) / [code](https://github.com/amansgz/sass-pricing-component-with-toggle)
 
