@@ -33,7 +33,7 @@
 ### Built with Sass
 
 - **Sunnyside Landing Page**    
-  <img src= "https://github.com/amansgz/sass-sunnyside-landing-page/blob/c3e7d25d2cf8c6050e3b86f6a94de6f5e6b0172b/images/preview.png" title= "Sunnyside Landing Page" alt= "Sunnyside Landing Page" width= "230">          
+  <img src= "https://github.com/amansgz/sass-sunnyside-landing-page/blob/f38dbc1316e0bab3490dee6f66d3d99c1b5a9330/images/preview.png" title= "Sunnyside Landing Page" alt= "Sunnyside Landing Page" width= "230">          
 
   [live site](https://sass-sunnyside-landing-page.netlify.app/) / [code](https://github.com/amansgz/sass-sunnyside-landing-page)
 
